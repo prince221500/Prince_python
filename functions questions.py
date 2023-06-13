@@ -12,7 +12,6 @@ def kshitiz():
             b=c
             print(i.rjust(b))
 kshitiz()
-
 print("********* reverse of the number using functions with no argumet no retun")
 def reverse():
     x=int(input("enter the number "))
@@ -23,7 +22,6 @@ def reverse():
         x=x//10
     print(sum)
 reverse()
-
 print("********* number is neon or not using functions with no argumet with retun")
 def neon():
     x=int(input("enter the number "))
@@ -50,17 +48,6 @@ def vindhya(x):
             print(b)
 x=int(input("enter the number of  the terrms "))
 vindhya(x)
-
-#print("********* reverse using functions with  argumet with no retun")
-#def reverse1():
- #   sum=0
-  #  while x>0:
-   #     rem=x%10
-    #    sum=sum*10+rem
-     #   x=x//10
-    #print(sum)
-#x=int(input("enter the number "))
-#reverse1()
 
 print("********* neon number using functions with  argumet with no retun")
 def neon2(a):
