@@ -1,3 +1,6 @@
+*** time table 
+python 🐍***
+
 import time
 t=time.strftime ('%H:%M:%S')
 min=int (time.strftime('%M'))
